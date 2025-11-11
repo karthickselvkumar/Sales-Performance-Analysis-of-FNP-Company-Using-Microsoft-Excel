@@ -3,6 +3,7 @@ Project Overview
 
 Analyzed FNP Company’s sales data using Microsoft Excel to uncover performance patterns and business insights.
 This project focuses on identifying key trends, top-performing products, and seasonal variations to guide data-driven decisions.
+  
 🎯 Objectives
 
 Understand overall sales performance and revenue trends.
